@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import fs from "node:fs";
 import { exec } from "node:child_process";
 import React, { useEffect, useMemo, useState } from "react";
